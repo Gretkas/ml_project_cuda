@@ -4,3 +4,10 @@
 *.ptx
 *.cubin
 *.fatbin
+/build
+/datasets
+datasets
+build
+ojas
+.clang-format
+/cmake-build-debug/
